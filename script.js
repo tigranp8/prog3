@@ -26,7 +26,7 @@ function matrixGenerator(l) {
         }
     }
     // Veradarcnel matrix
-    return m;``
+    return m;
 }
 
 var matrix;
